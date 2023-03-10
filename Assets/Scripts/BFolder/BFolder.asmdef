@@ -1,0 +1,16 @@
+{
+    "name": "BFolder",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e2b1ab6d092b5be498f8f65f62685ab4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
